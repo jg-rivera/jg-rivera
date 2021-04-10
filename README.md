@@ -5,4 +5,4 @@
 -->
 
 - ✨ Always learning!
-
+- 😎 Studying automation
