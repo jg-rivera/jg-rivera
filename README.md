@@ -5,4 +5,5 @@
 -->
 
 - ✨ The learning never stops!
+- ✅ Studying clean code
 - 😎 Studying automation and CI/CD pipelines
