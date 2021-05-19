@@ -5,6 +5,5 @@
 -->
 
 - ✨ The learning never stops!
-- ✅ Studying clean code and clean architecture
+- ✅ Studying design patterns, clean code and clean architecture
 - 😎 Studying automation and CI/CD pipelines
-- ☕ Currently maining JavaScript
