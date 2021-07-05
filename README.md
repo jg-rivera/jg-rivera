@@ -7,3 +7,4 @@
 - ✨ The learning never stops!
 - ✅ Studying design patterns, clean code and clean architecture
 - 😎 Studying automation and CI/CD pipelines
+- 🦾 Studying gRPC and microservices
