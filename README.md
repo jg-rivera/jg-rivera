@@ -6,5 +6,5 @@
 
 - ✨ The learning never stops!
 - ✅ Studying design patterns, clean code and clean architecture
-- 😎 Studying automation and CI/CD pipelines
+- 😎 Studying event-driven architecture and domain-driven design.
 - 🦾 Studying gRPC and microservices
